@@ -1,0 +1,14 @@
+
+Projet Learn@home
+
+Lien du tableau KANBAN Trello:
+https://trello.com/b/e97oJU5W/learnhome
+
+
+
+Lien des maquettes avec prototype FIGMA:
+https://www.figma.com/file/AXOLNxckKILWjYyfQjGdVR/App?type=design&node-id=31-1145&mode=design
+
+
+Lien du repo GITHUB en cas de lien défectueux :
+https://github.com/JimmyDef/Projet-LearnAtHome
